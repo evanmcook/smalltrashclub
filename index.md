@@ -1,6 +1,6 @@
-## welcome to shit boy ass club
+## welcome to small trash club
 
-you probably took a wrong turn it's best to close this tab, bleach your computer, and then toss it in the trash
+you probably took a wrong turn it's best to close this tab, bleach your computer, and then e-recycle the whole thing
 
 You can use the [editor on GitHub](https://github.com/evanmcook/shitboyassclub/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
