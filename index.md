@@ -8,6 +8,15 @@ you probably took a wrong turn it's best to close this tab, bleach your computer
 
 #todo
 - [x] define what small trash is
-- [ ] figure out how to use github again
+- [x] figure out how to use github again
 - [ ] organize all the ideas i have jotted down
-- [ ] post them here so people can make small 
+- [ ] post them here so people can make small trash
+
+#001-003
+- [x] 001 submitted
+- [x] 002 submitted
+- [x] 003 submitted
+- [ ] method documentation
+- [ ] photography
+- [ ] maybe make some kind of zine
+
