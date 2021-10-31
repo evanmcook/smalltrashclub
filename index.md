@@ -9,6 +9,7 @@ you probably took a wrong turn it's best to close this tab, bleach your computer
 - nobody is keeping score 
 
 🚮♣️🚮♣️🚮
+
 #todo
 - [x] define what small trash is
 - [x] figure out how to use github again
