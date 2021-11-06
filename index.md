@@ -10,3 +10,4 @@
 
 [issue 001 is out now](https://github.com/evanmcook/smalltrashclub/wiki/001)
 
+if you enjoy small trash club, please consider buying me a coffee. <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('buy me a coffee?', '#29abe0', 'S6S63IRWW');kofiwidget2.draw();</script> 
