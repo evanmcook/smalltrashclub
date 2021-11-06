@@ -8,8 +8,5 @@
 
 🚮♣️🚮♣️🚮
 
-#todo
-- [ ] method documentation
-- [ ] photography
-
+[issue 001 is out now](https://github.com/evanmcook/smalltrashclub/wiki/001)
 
