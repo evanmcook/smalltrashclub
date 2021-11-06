@@ -10,5 +10,6 @@
 
 [issue 001 is out now](https://github.com/evanmcook/smalltrashclub/wiki/001)
 
-if you enjoy small trash club, please consider buying me a coffee.
+if you enjoy small trash club, please consider buying me a coffee.  
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S63IRWW)
