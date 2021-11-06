@@ -8,7 +8,7 @@
 
 🚮♣️🚮♣️🚮
 
-[issue 001 is out now](https://github.com/evanmcook/smalltrashclub/wiki/001)
+## [issue 001 is out now](https://github.com/evanmcook/smalltrashclub/wiki/001)
 
 if you enjoy small trash club, please consider buying me a coffee.  
 
